@@ -7,7 +7,7 @@ dateFormatted: Jul 25th, 2024
 
  “What if it was Eurydice who told him to turn around?” (“Et si c’était Eurydice qui lui avait demandé de se retourner?”). 
 
- 
+
  Céline Sciamma’s film Portrait of a Lady on Fire (Portrait de la jeune fille en feu, 2019) tells its 18th-century story of love and loss in part by retelling an ancient story, the myth of the poet Orpheus and his beloved Eurydice, as related by the Roman poet Ovid in his epic Metamorphoses (c. 8 CE). The myth’s most iconic moment, when Orpheus turns around to look at Eurydice and therefore loses her to Hades, occupies a central position in the film’s plot and underlies its running theme of ‘looking at’ as ‘looking back.’ 
 
 * * *
@@ -20,7 +20,7 @@ In deep silence they took a sloping path, steep and dark, shrouded in thick mist
 
 She spoke a last farewell that scarcely reached his ears and fell back into the abyss.
 
-Maybe she was the one who said to him: Retourne-toi.
+Maybe she was the one who said to him: **Retourne-toi**.
 
 * * *
 
