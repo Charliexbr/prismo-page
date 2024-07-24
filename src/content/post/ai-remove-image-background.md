@@ -1,9 +1,10 @@
 ---
 layout: ../../layouts/post.astro
-title: Browser locally uses AI to remove image backgrounds
-description: Browser locally uses AI to remove image backgrounds
-dateFormatted: Jul 14th, 2024
+title: Retourne-Toi
+description: so I choose 'retourne-toi' as my domin name
+dateFormatted: Jul 25th, 2024
 ---
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112784146825771&bvid=BV1f3bjerEbq&cid=500001615070480&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 Yo, so I've been digging into this whole AI thing for front-end development lately, and stumbled upon this cool Transformers.js example.  Turned it into a sweet little tool, check it out!
 
