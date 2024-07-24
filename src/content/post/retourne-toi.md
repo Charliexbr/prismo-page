@@ -5,9 +5,9 @@ description: so I choose 'retourne-toi' as my domin name
 dateFormatted: Jul 25th, 2024
 ---
 
-So I choose 'retourne-toi' as my domin name.
-
  “What if it was Eurydice who told him to turn around?” (“Et si c’était Eurydice qui lui avait demandé de se retourner?”). 
+
+ 
  Céline Sciamma’s film Portrait of a Lady on Fire (Portrait de la jeune fille en feu, 2019) tells its 18th-century story of love and loss in part by retelling an ancient story, the myth of the poet Orpheus and his beloved Eurydice, as related by the Roman poet Ovid in his epic Metamorphoses (c. 8 CE). The myth’s most iconic moment, when Orpheus turns around to look at Eurydice and therefore loses her to Hades, occupies a central position in the film’s plot and underlies its running theme of ‘looking at’ as ‘looking back.’ 
 
 * * *
