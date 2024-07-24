@@ -5,7 +5,8 @@ description: Clancy, a spacecaster with a malfunctioning multiverse simulator, l
 dateFormatted: Jul 25th, 2024
 ---
 
-<img src='image/midnightgospel.jpg/' style='zoom:70%'>
+![Image](image/midnightgospel.jpg/)
+
 
 
 This little toy was finished last week. Just a few lines of code.
