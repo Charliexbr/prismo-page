@@ -1,11 +1,11 @@
 ---
 layout: ../../layouts/post.astro
-title: L(O*62).ONG - Make your URL longer
-description: loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong is the longest domain name
-dateFormatted: Jun 1th, 2024
+title: The Midnight Gospel
+description: Clancy, a spacecaster with a malfunctioning multiverse simulator, leaves the comfort of his home to interview beings living in dying worlds.
+dateFormatted: Jul 25th, 2024
 ---
 
-[![GitHub](https://github.html.zone/ccbikai/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)](https://github.com/ccbikai/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)
+<img src=.public/assets/images/posts/midnightgospel.jpg/ style='zoom:70%'>
 
 This little toy was finished last week. Just a few lines of code.
 
