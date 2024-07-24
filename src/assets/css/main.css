@@ -66,3 +66,17 @@ html.dark #darkToggle:hover .horizon {
     transform: translate3d(0, 10, 0)
   }
 }
+
+.bili {
+  position: relative;
+  overflow: hidden;
+  padding-top: 56.25%;
+}
+.bilibili {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
