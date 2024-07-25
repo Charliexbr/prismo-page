@@ -5,6 +5,9 @@ description: I like Prismo so much that I chose his avatar.
 dateFormatted: Jun 26th, 2024
 ---
 
+***Prismo***
+![Prismo](https://wallpapercave.com/wp/wp9970897.jpg)
+
 ## Bio
 ---
 Prismo is an all-powerful being who resides in the center of the multiverse. He's close friends with the Cosmic Owl, and has the power to grant wishes (with a twist) to anyone who reaches him, and alter the course of time itself at will. He is the product of an old man's dream, who keeps Prismo alive as long as he's asleep. However, the Lich kills his corporeal body in "Wake Up," ultimately killing Prismo as well. This did not stop him for long as he used a time paradox to return.<br />
@@ -24,18 +27,16 @@ Prismo can also create material items for himself and others without it counting
 ## Relationships
 ---
 **Cosmic Owl**<br />
-Prismo is seen with the Cosmic Owl, and the two appear to be friends. The Cosmic Owl comes to hang out with Prismo in the Time Room while Jake is there, and he implies that he has done this in the past.<br />
+Prismo is seen with the Cosmic Owl, and the two appear to be friends. The Cosmic Owl comes to hang out with Prismo in the Time Room while Jake is there, and he implies that he has done this in the past.
+***Prismo and Cosmic Owl***
+![Prismo and Cosmic Owl](https://m.media-amazon.com/images/M/MV5BZDJhNjQ0MzEtMTU0ZC00ODAxLTlkYWUtOTI2OTU2YzFmN2IwXkEyXkFqcGdeQXVyMzE5MDUxODM@._V1_.jpg)
 
 **Jake the dog**<br/>
-Prismo grows close to Jake while Finn was suffering the consequences of his wish, and he helps Jake to resolve the universe by telling him what to wish for. Jake says that Prismo is a strong number 3 on his cool guys list. Prismo later sends Jake a jar of pickles with a note, which said that he wanted to hang out with Jake more. Jake insists that he has to get Prismo a girlfriend.<br />
-
-**Gallery**
----
-![Prismo and Jake](https://i.redd.it/i2g4clbr9ky81.jpg)
+Prismo grows close to Jake while Finn was suffering the consequences of his wish, and he helps Jake to resolve the universe by telling him what to wish for. Jake says that Prismo is a strong number 3 on his cool guys list. Prismo later sends Jake a jar of pickles with a note, which said that he wanted to hang out with Jake more. Jake insists that he has to get Prismo a girlfriend.
 ***Prismo and Jake***
+![Prismo and Jake](https://i.redd.it/i2g4clbr9ky81.jpg)
 
-<br />
 
-![Prismo](https://wallpapercave.com/wp/wp9970897.jpg)
-***Prismo***
+
+
 
