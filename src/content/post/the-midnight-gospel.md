@@ -2,7 +2,7 @@
 layout: ../../layouts/post.astro
 title: The Midnight Gospel
 description: Clancy, a spacecaster with a malfunctioning multiverse simulator, leaves the comfort of his home to interview beings living in dying worlds.
-dateFormatted: Jul 26th, 2024
+dateFormatted: July 26th, 2024
 ---
 
 **I recommend this show.**

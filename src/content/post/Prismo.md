@@ -2,7 +2,7 @@
 layout: ../../layouts/post.astro
 title: Prismo the Wishmaster
 description: I like Prismo so much that I chose his avatar. 
-dateFormatted: Jun 26th, 2024
+dateFormatted: July 26th, 2024
 ---
 
 ![Prismo](https://wallpapercave.com/wp/wp9970897.jpg)
