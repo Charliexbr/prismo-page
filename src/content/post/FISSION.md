@@ -6,7 +6,7 @@ dateFormatted: Jujy 26th, 2024
 ---
 
 
-The best album ***for me*** of the year without a doubt...
+<br />The best album ***for me*** of the year without a doubt...
 
 
 ![FISSION](https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/57/64/09/576409b1-a271-2aa6-a8d9-606af6a414b6/5401148003000_cover.jpg/1200x1200bf-60.jpg)
