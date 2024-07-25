@@ -5,8 +5,6 @@ description: Clancy, a spacecaster with a malfunctioning multiverse simulator, l
 dateFormatted: Jul 26th, 2024
 ---
 
-* * * 
-
 **I recommend this show.**
 
 It's an animated show created by Adventure Time's Pendleton Ward and the podcaster Duncan Trussell. It follows a space podcaster who uses a multiverse simulator to travel to worlds on the brink of destruction (usually due to avoidable operator error) where he interviews the inhabitants.
