@@ -5,6 +5,7 @@ description: Clancy, a spacecaster with a malfunctioning multiverse simulator, l
 dateFormatted: Jul 25th, 2024
 ---
 
+<iframe src="https://mastodon.social/@prismo_for_you/112848200335415833/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script>
 
 This little toy was finished last week. Just a few lines of code.
 
