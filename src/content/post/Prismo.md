@@ -32,7 +32,7 @@ Prismo is seen with the Cosmic Owl, and the two appear to be friends. The Cosmic
 
 **Jake the dog**<br/>
 Prismo grows close to Jake while Finn was suffering the consequences of his wish, and he helps Jake to resolve the universe by telling him what to wish for. Jake says that Prismo is a strong number 3 on his cool guys list. Prismo later sends Jake a jar of pickles with a note, which said that he wanted to hang out with Jake more. Jake insists that he has to get Prismo a girlfriend.
-![Prismo and Jake](https://i.redd.it/i2g4clbr9ky81.jpg)
+![Prismo and Jake](https://i.pinimg.com/736x/0c/fb/18/0cfb1822f7b157121f01defd70f8d28f--adventure-time-cartoons.jpg)
 
 
 
