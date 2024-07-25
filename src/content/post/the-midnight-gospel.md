@@ -17,4 +17,5 @@ This caused Cloudflare, Vercel, and Netlify to be unable to use Let's Encrypt to
 
 Finally, switching the Cloudflare certificate to Google Trust Services LLC successfully signed the certificate.
 
-[![the midnight gospel](https://occ-0-2299-116.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVCC2sd1zlrjeY7rFVUYTlKyhG_8Ri90qm-higqS15EXCAxfaa49dBCXiQixUCMW9ZFylh9cr-IX2IBgY--FdAAi3t9wTjtDjWmn.jpg?r=138)](https://mastodon.social/@prismo_for_you/112848200335415833)
+
+[![the midnight gospel](https://occ-0-2299-116.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVCC2sd1zlrjeY7rFVUYTlKyhG_8Ri90qm-higqS15EXCAxfaa49dBCXiQixUCMW9ZFylh9cr-IX2IBgY--FdAAi3t9wTjtDjWmn.jpg?r=138)]
