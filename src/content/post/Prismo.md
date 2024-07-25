@@ -5,7 +5,6 @@ description: I like Prismo so much that I chose his avatar.
 dateFormatted: Jun 26th, 2024
 ---
 
-***Prismo***
 ![Prismo](https://wallpapercave.com/wp/wp9970897.jpg)
 
 ## Bio
