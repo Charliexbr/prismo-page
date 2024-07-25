@@ -27,12 +27,11 @@ Prismo can also create material items for himself and others without it counting
 ---
 **Cosmic Owl**<br />
 Prismo is seen with the Cosmic Owl, and the two appear to be friends. The Cosmic Owl comes to hang out with Prismo in the Time Room while Jake is there, and he implies that he has done this in the past.
-***Prismo and Cosmic Owl***
+
 ![Prismo and Cosmic Owl](https://m.media-amazon.com/images/M/MV5BZDJhNjQ0MzEtMTU0ZC00ODAxLTlkYWUtOTI2OTU2YzFmN2IwXkEyXkFqcGdeQXVyMzE5MDUxODM@._V1_.jpg)
 
 **Jake the dog**<br/>
 Prismo grows close to Jake while Finn was suffering the consequences of his wish, and he helps Jake to resolve the universe by telling him what to wish for. Jake says that Prismo is a strong number 3 on his cool guys list. Prismo later sends Jake a jar of pickles with a note, which said that he wanted to hang out with Jake more. Jake insists that he has to get Prismo a girlfriend.
-***Prismo and Jake***
 ![Prismo and Jake](https://i.redd.it/i2g4clbr9ky81.jpg)
 
 
