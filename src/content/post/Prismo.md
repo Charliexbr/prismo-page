@@ -31,7 +31,7 @@ Prismo grows close to Jake while Finn was suffering the consequences of his wish
 
 **Gallery**
 ---
-![Prismo and Jake](https://i1.sndcdn.com/artworks-000160448180-isf2ed-t500x500.jpg)
+![Prismo and Jake](https://i.redd.it/i2g4clbr9ky81.jpg)
 ***Prismo and Jake***
 
 <br />
