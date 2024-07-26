@@ -1,7 +1,6 @@
 ---
-import notes from "../collections/notes.json";
 import PageHeading from "../components/page-heading.astro";
-import Note from "../components/note.astro";
+import PostsLoop from "../components/posts-loop.astro";
 import Layout from "../layouts/main.astro";
 ---
 
@@ -9,24 +8,11 @@ import Layout from "../layouts/main.astro";
   <section class="relative z-20 max-w-2xl mx-auto my-12 px-7 lg:px-0">
     <PageHeading
       title="Boring Notes"
-      description="Here are some projects by others, obviously not mine. I will post my first boring note sooner or later. "
+      description="I will post my first boring note sooner or later. "
     />
 
-    <div
-      class="z-50 grid items-stretch w-full grid-cols-1 my-8 gap-7 sm:gap-5 sm:grid-cols-2"
-    >
-      {
-        notes.map((note) => {
-          return (
-            <Note
-              name={note.name}
-              description={note.description}
-              image={note.image}
-              url={note.url}
-            />
-          )
-        })
-      }
+    <div class="z-50 flex flex-col items-stretch w-full gap-5 my-8">
+      <PostsLoop count="999999999" />
     </div>
   </section>
 </Layout>
