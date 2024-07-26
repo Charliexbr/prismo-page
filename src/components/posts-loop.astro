@@ -4,11 +4,14 @@ const allPosts = await getCollection("post");
 
 const { count } = Astro.props;
 
-const postsLoop = allPosts.slice(0, count).map((post) => {
-	return {
-		...(post.data || {}),
-		link: `/post/${post.slug}`,
-	};
+// 按照时间进行降序排序
+const sortedPosts = allPosts.sort((a, b) => new pubDate(b.data.date) - new pubDate(a.data.date));
+
+const postsLoop = sortedPosts.slice(0, count).map((post) => {
+  return {
+    ...(post.data || {}),
+    link: `/post/${post.slug}`,
+  };
 });
 
 ---
