@@ -3,7 +3,6 @@ layout: ../../layouts/post.astro
 title: In the bite of a zombie
 description: Honestly, I wanna be a zombie 
 dateFormatted: Jul 25th, 2024
-date: "2024-07-25"
 ---
 
 ![zombie](https://d2a6d2ofes041u.cloudfront.net/resize?norotation=true&url=https:%2F%2Fimages.vocus.cc%2Fe93cd7bc-893d-430c-8211-d63a3ce999e7.png&width=1200&sign=PgOXNJxCnD967EIIihPZE8T_a_jT4T1Yz4h6GBj_msg)

@@ -3,7 +3,6 @@ layout: ../../layouts/post.astro
 title: Retourne-Toi
 description: so I choose 'retourne-toi' as my domin name
 dateFormatted: Jul 23th, 2024
-date: "2024-07-23"
 ---
 
  “What if it was Eurydice who told him to turn around?” (“Et si c’était Eurydice qui lui avait demandé de se retourner?”). 
