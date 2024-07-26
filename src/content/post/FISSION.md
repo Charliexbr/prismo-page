@@ -2,7 +2,9 @@
 layout: ../../layouts/post.astro
 title: FISSION
 description: Album by Dead Poet Society 
-dateFormatted: Jul 26th, 2024
+dateFormatted: Jul 28th, 2024
+date: "2024-07-28"
+
 ---
 
 
