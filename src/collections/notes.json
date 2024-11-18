@@ -1,20 +1,20 @@
 [
 	{
 		"name": "Absurd Trolly Problems",
-		"description": "Minimalist temporary Email.",
-		"image": "/assets/images/notes/email.ml.png",
+		"description": "Somehow I only killed 77 people.",
+		"image": "/assets/images/notes/trolley.png",
 		"url": "https://neal.fun/absurd-trolley-problems/"
 	},
 	{
 		"name": "THE GAME OF TRUST",
 		"description": "It's always fun to know 'how' we are fuck along with 'that' we are fucked.",
-		"image": "/assets/images/notes/dns.surf.png",
+		"image": "/assets/images/notes/trust.png",
 		"url": "https://ncase.me/trust/"
 	},
 	{
 		"name": "Wiley Wiggins",
-		"description": "Web page.",
-		"image": "/assets/images/notes/html.zone.png",
+		"description": "Wiley Wiggins's Web page.",
+		"image": "/assets/images/notes/wiggins.png",
 		"url": "https://wileywiggins.com/"
 	}
 ]
