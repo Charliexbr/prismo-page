@@ -1,7 +1,7 @@
 ---
-import notes from "../../collections/notes.json";
+import collected_pages from "../../collections/collected_pages.json";
 import Button from "../button.astro";
-import Note from "../note.astro";
+import Collected_Page from "../collected_page.astro";
 ---
 
 <section class="max-w-4xl mx-auto px-7 lg:px-0">
@@ -17,13 +17,13 @@ import Note from "../note.astro";
     class="grid items-stretch w-full sm:grid-cols-2 md:grid-cols-3 gap-7 mt-7"
   >
     {
-      notes.map((note) => {
+      collected_pages.map((collected_page) => {
         return (
-          <Note
-            name={note.name}
-            description={note.description}
-            image={note.image}
-            url={note.url}
+          <Collected_Page
+            name={collected_page.name}
+            description={collected_page.description}
+            image={collected_page.image}
+            url={collected_page.url}
           />
         )
       })
@@ -31,6 +31,6 @@ import Note from "../note.astro";
   </div>
 
   <div class="flex items-center justify-center w-full py-5">
-    <Button text="View all my collections." link="/notes" />
+    <Button text="View all my collections." link="/collected_pages" />
   </div>
 </section>

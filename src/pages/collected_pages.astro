@@ -1,8 +1,8 @@
 
 ---
-import notes from "../collections/notes.json";
+import collected_pages from "../collections/collected_pages.json";
 import PageHeading from "../components/page-heading.astro";
-import Note from "../components/note.astro";
+import Collected_Page from "../components/collected_page.astro";
 import Layout from "../layouts/main.astro";
 ---
 
@@ -17,13 +17,13 @@ import Layout from "../layouts/main.astro";
       class="z-50 grid items-stretch w-full grid-cols-1 my-8 gap-7 sm:gap-5 sm:grid-cols-2"
     >
       {
-        notes.map((note) => {
+        collected_pages.map((collected_page) => {
           return (
-            <Note
-              name={note.name}
-              description={note.description}
-              image={note.image}
-              url={note.url}
+            <Collected_Page
+              name={collected_page.name}
+              description={collected_page.description}
+              image={collected_page.image}
+              url={collected_page.url}
             />
           )
         })
