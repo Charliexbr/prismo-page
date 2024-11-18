@@ -1,20 +1,20 @@
 [
 	{
-		"name": "Email.ML",
+		"name": "Absurd Trolly Problems",
 		"description": "Minimalist temporary Email.",
 		"image": "/assets/images/notes/email.ml.png",
-		"url": "https://email.ml"
+		"url": "https://neal.fun/absurd-trolley-problems/"
 	},
 	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
+		"name": "THE GAME OF TRUST",
+		"description": "It's always fun to know 'how' we are fuck along with 'that' we are fucked.",
 		"image": "/assets/images/notes/dns.surf.png",
-		"url": "https://dns.surf"
+		"url": "https://ncase.me/trust/"
 	},
 	{
-		"name": "HTML.ZONE",
-		"description": "Web Toolbox.",
+		"name": "Wiley Wiggins",
+		"description": "Web page.",
 		"image": "/assets/images/notes/html.zone.png",
-		"url": "https://html.zone"
+		"url": "https://wileywiggins.com/"
 	}
 ]
