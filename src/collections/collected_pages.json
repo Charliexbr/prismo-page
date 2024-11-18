@@ -22,5 +22,17 @@
 		"description": "Flying cats bouncing all over the screen.",
 		"image": "/assets/images/collected_pages/cat_bounce.png",
 		"url": "https://cat-bounce.com/"
+	},
+	{
+		"name": "Glimpse",
+		"description": "Look through random people’s windows from all over the world.",
+		"image": "/assets/images/collected_pages/window.png",
+		"url": "https://www.window-swap.com/"
+	},
+	{
+		"name": "Cursors Party",
+		"description": "You can see other people's cursors and harass them.",
+		"image": "/assets/images/collected_pages/cursor.png",
+		"url": "https://cursordanceparty.com/"
 	}
 ]
