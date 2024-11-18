@@ -1,26 +1,26 @@
 [
 	{
 		"name": "Absurd Trolly Problems",
-		"description": "Somehow I only killed 77 people.",
-		"image": "/assets/images/notes/trolley.png",
+		"description": "Somehow I killed 77 people.",
+		"image": "/assets/images/collected_pages/trolley.png",
 		"url": "https://neal.fun/absurd-trolley-problems/"
 	},
 	{
 		"name": "THE GAME OF TRUST",
 		"description": "It's always fun to know 'how' we are fuck along with 'that' we are fucked.",
-		"image": "/assets/images/notes/trust.png",
+		"image": "/assets/images/collected_pages/trust.png",
 		"url": "https://ncase.me/trust/"
 	},
 	{
 		"name": "Wiley Wiggins",
 		"description": "Wiley Wiggins's Web page.",
-		"image": "/assets/images/notes/wiggins.png",
+		"image": "/assets/images/collected_pages/wiggins.png",
 		"url": "https://wileywiggins.com/"
 	},
 	{
 		"name": "Cat Bounce!",
 		"description": "Flying cats bouncing all over the screen.",
-		"image": "/assets/images/notes/cat_bounce.png",
+		"image": "/assets/images/collected_pages/catbounce.png",
 		"url": "https://cat-bounce.com/"
 	}
 ]
