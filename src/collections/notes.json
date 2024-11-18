@@ -16,5 +16,11 @@
 		"description": "Wiley Wiggins's Web page.",
 		"image": "/assets/images/notes/wiggins.png",
 		"url": "https://wileywiggins.com/"
+	},
+	{
+		"name": "Cat Bounce!",
+		"description": "Flying cats bouncing all over the screen.",
+		"image": "/assets/images/notes/catbounce.png",
+		"url": "https://cat-bounce.com/"
 	}
 ]
