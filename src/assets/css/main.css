@@ -4,6 +4,13 @@
 
 /* Add Your Custom CSS Here */
 
+body {
+
+  font-family: 'DejaVu Sans Mono', monospace;
+
+}
+
+
 .prose img {
   border-radius: 30px;
 }
