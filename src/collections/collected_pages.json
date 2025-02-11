@@ -24,13 +24,13 @@
 		"url": "https://cat-bounce.com/"
 	},
 	{
-		"name": "Glimpse",
-		"description": "Look through random people's windows from all over the world.",
+		"name": "WindowSwap",
+		"description": "Open a window somewhere in the world.",
 		"image": "/assets/images/collected_pages/window.png",
 		"url": "https://www.window-swap.com/"
 	},
 	{
-		"name": "Cursors Party",
+		"name": "Cursor Dance Party",
 		"description": "You can see other people's cursors and harass them.",
 		"image": "/assets/images/collected_pages/cursor.png",
 		"url": "https://cursordanceparty.com/"
