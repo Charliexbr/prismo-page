@@ -5,62 +5,36 @@ import PageHeading from "../components/page-heading.astro";
 import Layout from "../layouts/main.astro";
 ---
 
-<Layout title="About Me">
+<Layout title="Acknowledgements">
   <section class="relative z-20 max-w-2xl mx-auto my-12 px-7 lg:px-0">
     <PageHeading
-      title="About Me"
-      description="I was trying to quit social media, but ended up being so self-absorbed that I wrote this boring blog."
+      title="Acknowledgements"
+      description="For everything that made this 'rehearsal' possible."
     />
 
     <img src="/assets/images/about.jpg" class="relative z-30 w-full my-10 rounded-xl" />
 
-    <h2 class="mb-2 text-2xl font-bold dark:text-neutral-200">Short Bio</h2>
-    <p
-      class="text-sm leading-6 text-gray-600 dark:text-neutral-400 sm:leading-7 lg:leading-8 sm:text-base lg:text-lg"
-    >
-     IT Beginner 🧑🏻‍💻
-    </p>
+    <div class="mt-10 space-y-6 text-sm leading-7 text-gray-600 dark:text-neutral-400 sm:text-base lg:text-lg">
+      <p>
+        为了完成这个项目，我模拟了所有可能发生的失败，直到它在实验环境里看起来像是一次成功。
+      </p>
 
-    <h2
-      class="mt-5 mb-2 text-2xl font-bold lg:mt-10 sm:mt-6 dark:text-neutral-200"
-    >
-      ---
-    </h2>
-    <div class="px-5 py-10">
-      {
-        experiences.map((experience, loop) => {
-          return (
-            <>
-              {loop == 0 || loop == 1 ? (
-                <div class="pb-10 border-l border-gray-200 dark:border-neutral-700">
-                  <AboutExperience
-                    dates={experience.dates}
-                    role={experience.role}
-                    company={experience.company}
-                    description={experience.description}
-                  />
-                </div>
-              ) : (
-                <AboutExperience
-                  dates={experience.dates}
-                  role={experience.role}
-                  company={experience.company}
-                  description={experience.description}
-                />
-              )}
-            </>
-          )
-        })
-      }
+      <p>
+        感谢我的导师。他参与了这场长达数月的排练，并准确地在每一个我试图逃避的节点上提醒我截止日期的存在。这种制度化的推力让我意识到，如果不完成这本论文，我将无法进入下一个社会角色的扮演。
+      </p>
+
+      <p>
+        感谢那些虚拟的网关和隧道。虽然那零点零六五毫秒的延迟在现实中几乎没有意义，但在我的屏幕上，它是我与这个世界产生关联的唯一证据。那些跑通的数据包证明了这套系统的存在，哪怕这种存在仅限于我的电脑内存里。
+      </p>
+
+      <p>
+        感谢我的父母和室友。他们在这场漫长的居家排练中扮演了观众和后勤的角色。他们忍受了我盯着屏幕发呆的每一个瞬间，并按时提供了维持生物机能的食物。
+      </p>
+
+      <p class="pt-4 border-t border-gray-200 dark:border-neutral-700">
+        最后，感谢这个最终跑通了所有流程的自己。现在排练结束了，大幕正在拉开。我准备好去领取那个叫做毕业证的纸片，尽管我们都知道，那只是一张纸。
+      </p>
     </div>
-
-    <h2 class="mt-5 mb-2 text-2xl font-bold lg:mt-10 sm:mt-6 dark:text-neutral-200">Contact me</h2>
-    <p
-      class="text-sm leading-6 text-gray-600 dark:text-neutral-400 sm:leading-7 lg:leading-8 sm:text-base lg:text-lg"
-    >
-      If you want to contact me, send me an <a href="mailto:prismo.xbr@gmail.com?subject=Subject%20Here&body=Body%20text%20here" class="text-indigo-600 underline"
-        >email</a
-      > and I'll be sure to get back to you.
-    </p>
   </section>
 </Layout>
+
